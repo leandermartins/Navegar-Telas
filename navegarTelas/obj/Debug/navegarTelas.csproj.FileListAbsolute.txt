@@ -1,0 +1,10 @@
+C:\Users\leander.mosilva\Desktop\navegarTelas\navegarTelas\bin\Debug\navegarTelas.exe.config
+C:\Users\leander.mosilva\Desktop\navegarTelas\navegarTelas\bin\Debug\navegarTelas.exe
+C:\Users\leander.mosilva\Desktop\navegarTelas\navegarTelas\bin\Debug\navegarTelas.pdb
+C:\Users\leander.mosilva\Desktop\navegarTelas\navegarTelas\obj\Debug\navegarTelas.csprojAssemblyReference.cache
+C:\Users\leander.mosilva\Desktop\navegarTelas\navegarTelas\obj\Debug\navegarTelas.frmHome.resources
+C:\Users\leander.mosilva\Desktop\navegarTelas\navegarTelas\obj\Debug\navegarTelas.frmSegundatela.resources
+C:\Users\leander.mosilva\Desktop\navegarTelas\navegarTelas\obj\Debug\navegarTelas.Properties.Resources.resources
+C:\Users\leander.mosilva\Desktop\navegarTelas\navegarTelas\obj\Debug\navegarTelas.csproj.GenerateResource.cache
+C:\Users\leander.mosilva\Desktop\navegarTelas\navegarTelas\obj\Debug\navegarTelas.exe
+C:\Users\leander.mosilva\Desktop\navegarTelas\navegarTelas\obj\Debug\navegarTelas.pdb
